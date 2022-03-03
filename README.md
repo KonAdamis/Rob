@@ -1,2 +1,2 @@
 # Rob
-Greedy algorithm.
+Greedy Algorithm.
